@@ -1,7 +1,5 @@
-# Site of Real Estate Agency
+# Сайт агенства недвижимости
+Данный сайт является сайтом агенства недвижимости. Он имеет валидную верстку, что снижает вероятность некорректной работы сайта на разных платформах.
 
-[TODO. There will be project description]
-
-# Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+# Цель задания
+Данный код написан для образовательных целей. Учебный курс для веб-разработчиков - DEVMAN.org
